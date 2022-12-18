@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MyReactApp/static/css/main.39d23886.css",
+    "main.js": "/MyReactApp/static/js/main.56e1bf28.js",
+    "static/js/787.bc7d429a.chunk.js": "/MyReactApp/static/js/787.bc7d429a.chunk.js",
+    "static/media/jwellry.jpg": "/MyReactApp/static/media/jwellry.aeb127c9f010894484b7.jpg",
+    "static/media/logo.jpg": "/MyReactApp/static/media/logo.1a156b7b54d4db4a3061.jpg",
+    "static/media/Watches.jpg": "/MyReactApp/static/media/Watches.8adb3bcd039d7ea1a082.jpg",
+    "static/media/jacket.jpg": "/MyReactApp/static/media/jacket.53d0dfbea0aa8ebcee4c.jpg",
+    "static/media/furniture.jpg": "/MyReactApp/static/media/furniture.34466a6a391c1d0b2316.jpg",
+    "static/media/shirts.jpg": "/MyReactApp/static/media/shirts.771330ab0ec79ceb5e81.jpg",
+    "index.html": "/MyReactApp/index.html",
+    "main.39d23886.css.map": "/MyReactApp/static/css/main.39d23886.css.map",
+    "main.56e1bf28.js.map": "/MyReactApp/static/js/main.56e1bf28.js.map",
+    "787.bc7d429a.chunk.js.map": "/MyReactApp/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d23886.css",
+    "static/js/main.56e1bf28.js"
+  ]
+}
